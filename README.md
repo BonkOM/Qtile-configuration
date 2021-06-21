@@ -42,4 +42,5 @@ El proceso de instalacion es el siguiente:
 `:w`
 `mo<C-r>`
 
-listo, ya puedes usar neovim  de una manera mas comoda.
+reinicia
+listo, ya puedes usar qtile en tu día a día de una manera mas comoda.
